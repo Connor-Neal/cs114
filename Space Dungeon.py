@@ -1,0 +1,7 @@
+print ('Hello Welcome to Space Dungeon')
+print ('to start type in the name of the character')
+Name = input()
+print ('ok now type in the class you want to be')
+Class = input()
+print ('ok now type in how many magic points you want')
+Maj = input()
